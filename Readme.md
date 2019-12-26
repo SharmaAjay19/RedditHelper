@@ -4,3 +4,6 @@ First steps:
 
 To Unsave all saved posts on your account:
 Run UnsaveAll.py to unsave your saved posts. It will fetch saved posts in batches of 100 and sequentially unsave them.
+
+To download images from all saved posts:
+Run DownloadSaves.py.
